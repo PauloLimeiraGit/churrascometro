@@ -11,11 +11,23 @@
   <body>
     <main>
       <div class="container">
-        <h3>CHURRASCOMETRO</h3>
-        <input id="adulto" type="number" placeholder="Adulto" /><br />
-        <input id="crianca" type="number" placeholder="Criança" /><br />
-        <input id="duracao" type="number" placeholder="Quantas horas" /><br />
-        <input id="calcular" type="submit" value="Calcular" />
+        <h2>CHURRASCôMETRO</h2>
+        <input id="adulto" name="adultos" type="number" placeholder="Adultos" />
+        <input
+          id="crianca"
+          name="crianca"
+          type="number"
+          placeholder="Crianças"
+        />
+        <input
+          id="duracao"
+          name="horas"
+          type="number"
+          placeholder="Quantas horas"
+        />
+        <button id="calcular">Calcular</button>
+
+        <div id="resultado"></div>
       </div>
     </main>
     <script src="script.js"></script>
