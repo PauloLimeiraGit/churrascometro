@@ -1,0 +1,1 @@
+Calculadora de Churrasco desenvolvida com HTML, CSS e JavaScript. O projeto tem como objetivo aplicar conceitos fundamentais de desenvolvimento web na criação de uma aplicação simples e funcional, capaz de estimar a quantidade ideal de carnes, bebidas e bebidas alcoólicas com base no número de pessoas e na duração do evento.
